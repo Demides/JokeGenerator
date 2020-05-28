@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4GRoMuXL6OLuaD3HRU7B4x4SbIptrET1qlHIBLLIWZr7Qx96vehexeRNyIAb8PvxLRUcgdd0b+HUbA1MzcklA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theba\\source\\repos\\JokeGenerator\\JokeGenerator\\JokeGenerator.iOS\\JokeGenerator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theba\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512",
+    "C:\\Users\\theba\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
